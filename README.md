@@ -9,7 +9,7 @@
 - Business Information Systems student at Capital University, Cairo
 - Aspiring full-stack developer: ASP.NET Core, EF Core, SQL Server, Angular
 - Building [Sho8lana](https://github.com/FadyyNabil/sho8lana), a mini freelance marketplace
-- Portfolio: [fadyynabil.github.io](https://fadyynabil.github.io)
+- Portfolio: [portfolio.fady-n-gwargeous.workers.dev](https://portfolio.fady-n-gwargeous.workers.dev)
 
 ## GitHub Stats
 
@@ -35,6 +35,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fady-nabil-94b654405)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=githubpages&logoColor=white)](https://fadyynabil.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio.fady-n-gwargeous.workers.dev)
 
 </div>
